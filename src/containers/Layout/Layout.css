@@ -1,0 +1,29 @@
+.Layout {
+    background: linear-gradient(to right bottom, #24003c 50%, white 50%);
+}
+
+.Layout h1 {
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+
+.Layout h3 {
+    text-align: center;
+    color: white;
+}
+
+footer {
+    padding: 30px;
+    background-color: #24003c;
+    color: white;
+}
+
+footer h3 {
+    margin: 0;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}

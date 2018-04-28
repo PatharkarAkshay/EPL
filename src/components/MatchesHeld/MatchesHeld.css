@@ -1,0 +1,17 @@
+.MatchesHeld {
+    background-color: white;
+    color: #24003c;
+}
+
+.MatchesHeld p {
+    text-align: center;
+}
+
+.MatchesHeld div {
+    text-align: center;
+}
+
+.reverse {
+    background-color: #24003c;
+    color: white;
+}

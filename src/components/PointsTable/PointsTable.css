@@ -1,0 +1,25 @@
+.PointsTable {
+    background-color: white;
+    color: #24003c;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.PointsTable thead {
+    background-color: #24003c;
+    color: white;
+}
+
+.PointsTable td {
+    text-align: center;
+}
+
+.PointsTable th {
+    text-align: center;
+}
+
+.PointsTable td:hover {
+    background-color: #24003c;
+    color: white;
+}

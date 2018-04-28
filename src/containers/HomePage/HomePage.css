@@ -1,0 +1,21 @@
+.HomePage ul {
+    list-style: none;
+    margin: 0;
+    padding: 40px;
+}
+
+.HomePage li {
+    margin-top: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.HomePage a {
+    text-decoration: none;
+    color: #24003c;
+}
+
+.HomePage a:hover,
+.HomePage a:active {
+    color: lightblue;
+}
